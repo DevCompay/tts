@@ -7,7 +7,7 @@ function Landing() {
         <div className = "bgcr">
            <div className = "landing">
                 <div align = "center" >
-                    <h1 className = "chin-chin">Chin - Chin</h1>
+                    <h1 className = "chin-chin">Fuck Fuck</h1>
                     <h3 className = "slogan">Online Train Booking Platform</h3>
                 </div>
 
